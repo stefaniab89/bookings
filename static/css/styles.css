@@ -17,7 +17,5 @@
         }
 
         .datepicker {
-            z-index: 1000;
-            top: auto !important;
-            bottom: 140px;
+            z-index: 10000;
         }
